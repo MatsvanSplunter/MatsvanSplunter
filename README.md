@@ -1,5 +1,5 @@
 I'm Mats van Splunter
-I'm a student at Talland/Bit Academy and i do software defelepment. i have used PHP, SQL, HTML, CSS.
+I'm a student at Talland/Bit Academy and i do software development. i have used PHP, SQL, HTML, CSS.
 <!--
 **MatsvanSplunter/MatsvanSplunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
