@@ -1,16 +1,19 @@
-I'm Mats van Splunter
-I'm a student at Talland/Bit Academy and i do software development. i have used PHP, SQL, HTML, CSS.
-<!--
-**MatsvanSplunter/MatsvanSplunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Mats van Splunter
 
-Here are some ideas to get you started:
+I'm a developer in training at Bit Academy with a passion for backend development and a growing interest in full-stack and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’ve worked with technologies like:
+
+    PHP, MySQL, JavaScript, HTML/CSS
+
+    Currently learning Python
+
+    Experience with Docker for deployment
+
+🔧 Projects I’ve worked on include:
+
+    Holding the Drones: A full-stack matching platform for drone operators and clients
+
+    No Waste Decoration: A website focused on promoting sustainability and recycling
+
+🧠 What drives me is learning by doing — I like solving problems, building useful tools, and getting better every day.
